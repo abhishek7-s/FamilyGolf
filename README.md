@@ -5,7 +5,6 @@ This is a clone of the Family Golf website, designed to replicate the functional
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Description
 
@@ -29,10 +28,3 @@ This project was built using the following technologies:
 
 3. Open the `index.html` file in your web browser to view the website.
 
-
-## Usage
-
-1. Navigate through the website to explore its features.
-2. Use the tee time reservation system to book a tee time.
-3. Check the event calendar for upcoming events.
-4. Explore the photo gallery to see images of the golf course.
