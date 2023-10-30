@@ -1,1 +1,38 @@
 # FamilyGolf
+This is a clone of the Family Golf website, designed to replicate the functionality and design of the original website. 
+
+- [Description](#description)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+
+## Description
+
+The Family Golf Website Clone is a web application that closely emulates the original Family Golf website. It provides users with a similar experience, allowing them to explore information about the golf course, tee times, events, and more. This project is intended for educational and practice purposes and is not intended for commercial use.
+
+## Features
+- Home page with information about the golf course and its amenities.
+
+## Technologies Used
+
+This project was built using the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+1. Clone this repository to your local machine:
+
+2. Open the project in your code editor.
+
+3. Open the `index.html` file in your web browser to view the website.
+
+
+## Usage
+
+1. Navigate through the website to explore its features.
+2. Use the tee time reservation system to book a tee time.
+3. Check the event calendar for upcoming events.
+4. Explore the photo gallery to see images of the golf course.
